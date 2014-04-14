@@ -1,0 +1,11 @@
+{
+  "name": "ChromeExtensionSample",
+  "version": "0.1",
+  "description": "this is sample Chrome Extension",
+  "manifest_version": 2,
+  "app": {
+    "launch": {
+      "local_path": "sample.html"
+    }
+  }
+}
