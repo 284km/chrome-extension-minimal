@@ -1,5 +1,5 @@
-chrome-extension-minimal
-========================
+chrome-extension-browser-action
+===============================
 
-this is minimal template of chrome extension.
+this is sample of Chrome Extension browser_action
 
